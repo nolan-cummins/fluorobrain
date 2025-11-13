@@ -37,6 +37,9 @@ The first step is to create and organize the dataset. We used _labelme_ to assig
     3.  Calculates the **Dice Score** (percentage of overlap) to measure accuracy.
     4.  Generates a `matplotlib` plot comparing the model's prediction (overlaid on the original image) with the ground-truth mask.
 
+## 3. Results
+<img width="2000" height="1200" alt="678_result" src="https://github.com/user-attachments/assets/c048b576-61d2-4361-b8c5-2097ae9da832" />
+
 ## References:
 
     [1] A. Arias, L. Manubens-Gil, and M. Dierssen, “Fluorescent transgenic mouse models for whole-brain imaging in health and disease,” Front. Mol. Neurosci., vol. 15, p. 958222, Sep. 2022, doi: 10.3389/fnmol.2022.958222.
