@@ -48,7 +48,7 @@ This post-processing pipeline is implemented in the **`alignment and analysis.ip
 * **Analysis:** Calculates Dice scores for (1) Model vs. GT, (2) Model vs. Aligned Map, and (3) GT vs. Aligned Map.
 
 ## 4. Results
-<img width="4862" height="2292" alt="532_result" src="https://github.com/user-attachments/assets/820a1c84-7fc2-40c1-9340-ad00cbff383a" />
+<img width="4959" height="2338" alt="532_result" src="https://github.com/user-attachments/assets/005d7f9f-a912-41f6-af15-11d68d21763f" />
 
 
 ## References
